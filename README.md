@@ -11,12 +11,17 @@
 
 ### Demo Credentials
 
-**User:** admin@admin.com  
+**Admin:** admin@admin.com  
+**Password:** secret
+
+**User:** user@user.com  
 **Password:** secret
 
 ### Official Documentation
 
 [Click here for the official documentation](http://laravel-boilerplate.com)
+
+<a href="https://tracking.gitads.io/?repo=laravel-boilerplate"><img src="https://images.gitads.io/laravel-boilerplate" alt="GitAds"/></a>
 
 ### Slack Channel
 
@@ -40,7 +45,7 @@ If you discover a security vulnerability within this boilerplate, please send an
 
 ### Donations
 
-If you would like to help the continued efforts of this project, any size [donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JJWUZ4E9S9SFG&lc=US&item_name=Laravel%205%20Boilerplate&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) are welcomed and highly appreciated.
+If you would like to help the continued efforts of this project, any size [donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JJWUZ4E9S9SFG&lc=US&item_name=Laravel%205%20Boilerplate&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) are welcomed and highly appreciated. Please also consider [sponsoring](https://github.com/sponsors/rappasoft) this project, it would be a huge help.
 
 ### License
 
